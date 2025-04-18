@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31c0c955-38cf-4a9e-959f-d21b15fb0976" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort-alg-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="31c0c955-38cf-4a9e-959f-d21b15fb0976" name="Changes" comment="radix sort, quicksort" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +21,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
@@ -40,7 +34,14 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Algorithms">
+    <configuration name="Algorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms" />
+      <module name="sort-alg-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AlgorithmsTest.testEmptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sort-alg-2" />
       <option name="PACKAGE_NAME" value="" />
@@ -53,6 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Algorithms" />
         <item itemvalue="JUnit.AlgorithmsTest.testEmptyArray" />
       </list>
     </recent_temporary>
@@ -66,6 +68,21 @@
       <option name="presentableId" value="Default" />
       <updated>1744913891246</updated>
     </task>
+    <task id="LOCAL-00001" summary="radix sort, quicksort">
+      <created>1744946043361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744946043361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="radix sort, quicksort">
+      <created>1744946169853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744946169853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="radix sort, quicksort" />
+    <option name="LAST_COMMIT_MESSAGE" value="radix sort, quicksort" />
   </component>
 </project>
